@@ -29,7 +29,7 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
+* LivePreview - Make change, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
 * Sync Scrolling
   - While you type, LivePreview will automatically scroll to the current location you're editing.
