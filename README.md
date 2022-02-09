@@ -25,9 +25,16 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://i.imgur.com/qsdr2IF.png)
+![screenshot](https://i.imgur.com/hDG0EjO.png)
 
-## Key Features
+## DreamWave™ Method enables:
+
+| Future-proof Planning | Secret Intelligence | Special Abilities |
+| :---: |:---:| :---:|
+| <h1> 📜 </h1> | <h1> 🧠 </h1> | <h1> 🚀 </h1> |
+| (Success Recipe) | Obtain Sacred Knowledge | Unlock Your Potential |
+
+
 
 * LivePreview - Make change, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
