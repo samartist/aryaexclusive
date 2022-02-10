@@ -35,6 +35,25 @@
 | (Success Recipe) | Obtain Sacred Knowledge | Unlock Your Potential |
 
 
+|  | Hive | Level | Link |
+| :---: |:---:| :---:|
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+
+
 
 * LivePreview - Make change, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
