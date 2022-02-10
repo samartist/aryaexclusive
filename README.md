@@ -36,7 +36,7 @@
 
 
 |  | Hive | Level | Link |
-| :---: |:---:| :---:|
+| :---: |:---:| :---:| :---:|
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
