@@ -37,7 +37,7 @@
 
 |  | Hive | Level | Link |
 | :---: |:---:| :---:| :---:|
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
+| <h1> 📜 </h1> | <h1> FocusHive </h1> | Level 8/8 | <img src="https://img.shields.io/badge/Join%20the%20Dream%20Hive-%E2%98%86-orange"> |
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
 | <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 8/8 </h1> | <h1> Visit Hive </h1> |
