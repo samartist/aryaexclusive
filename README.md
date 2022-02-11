@@ -54,7 +54,7 @@
 | <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> ZenHive </h1> Donec venenatis hendrerit egestas. | <h1> -6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 | <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> SacredHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 
-
+## Features
 
 * LivePreview - Make change, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
@@ -80,7 +80,7 @@ Quisque rhoncus sodales rutrum. Maecenas ut magna tempus mi volutpat malesuada. 
 
 |                                                            | User                                             | Step |
 | :--------------------------------------------------------- | :----------------------------------------------- | :------- |
-| ![](https://avatars.githubusercontent.com/u/204341?s=25)   | [@samartist](https://github.com/samartist)       | c +7 -8 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/204341?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +7 -8 ❤️ |
 | ![](https://avatars.githubusercontent.com/u/63164982?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +6 -2 ❤️ |
 | ![](https://avatars.githubusercontent.com/u/56607882?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +5 -4 ❤️ |
 | ![](https://avatars.githubusercontent.com/u/27820675?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
@@ -93,12 +93,6 @@ Quisque rhoncus sodales rutrum. Maecenas ut magna tempus mi volutpat malesuada. 
 | ![](https://avatars.githubusercontent.com/u/307334?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +3 -2 ❤️ |
 | ![](https://avatars.githubusercontent.com/u/11155743?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -3 ❤️ |
 | ![](https://avatars.githubusercontent.com/u/29042462?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -6 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/2978730?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +3 -4 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/44171355?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/5638101?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/619996?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/31022056?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -1 ❤️ |
-| ![](https://avatars.githubusercontent.com/u/31921460?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -1 ❤️ |
 
 ## Download
 
