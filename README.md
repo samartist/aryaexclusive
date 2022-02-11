@@ -34,6 +34,7 @@
 | <h1> 📜 </h1> | <h1> 🧠 </h1> | <h1> 🚀 </h1> |
 | (Success Recipe) | Obtain Sacred Knowledge | Unlock Your Potential |
 
+![screenshot](https://i.imgur.com/ZB4myHW.jpg)
 
 |  | Hives | Steps | Links |
 | :---: |:---:| :---:| :---:|
