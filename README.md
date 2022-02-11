@@ -37,20 +37,23 @@
 
 |  | Hive | Level | Link |
 | :---: |:---:| :---:| :---:|
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | Level +8 | <img src="https://img.shields.io/badge/Visit%20Hive%20Hive-%E2%98%86-orange"> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +7 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +6 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +5 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +4 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +3 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +2 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level +1 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level 0 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level -1 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level -2 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level -3 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level -4 </h1> | <h1> Visit Hive </h1> |
-| <h1> 📜 </h1> | <h1> FocusHive </h1> | <h1> Level -5 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/KyhVgEB.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +7 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +7 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/2ANw2fR.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +6 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +5 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/DjRyFKr.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +4 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/cCBfgtH.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +3 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +2 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/t4g2RDI.png"> </h1> | <h1> FocusHive </h1> | <h1> Level +1 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/19AHyeo.png"> </h1> | <h1> FocusHive </h1> | <h1> Level 0 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/TwW8qT3.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -1 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/pwewwFv.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -2 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/oMpj15l.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -3 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/22cLOd6.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -4 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -5 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -5 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -5 </h1> | <h1> Visit Hive </h1> |
+| <h1> <img src="https://i.imgur.com/nio2CNo.png"> </h1> | <h1> FocusHive </h1> | <h1> Level -5 </h1> | <h1> Visit Hive </h1> |
 
 
 
@@ -141,4 +144,3 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
