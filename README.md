@@ -38,21 +38,21 @@
 |  | Hives | Steps | Links |
 | :---: |:---:| :---:| :---:|
 | <h1> <img src="https://i.imgur.com/KyhVgEB.png?s=1"> </h1> | <h1> FocusHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> +8 </h1> Business | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> ResearchHive </h1> | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/2ANw2fR.png"> </h1> | <h1> SteamHive </h1> | <h1> +6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> DevHive </h1> | <h1> +5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/DjRyFKr.png"> </h1> | <h1> ThinkHive </h1> | <h1> +4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/cCBfgtH.png"> </h1> | <h1> IguanaHive </h1> | <h1> +3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> LingoHive </h1> | <h1> +2 </h1> Language | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/t4g2RDI.png"> </h1> | <h1> SunnyHive </h1> | <h1> +1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/19AHyeo.png"> </h1> | <h1> DreamHive </h1> | <h1> 0 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-black"> |
-| <h1> <img src="https://i.imgur.com/TwW8qT3.png"> </h1> | <h1> CuriosityHive </h1> | <h1> -1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/pwewwFv.png"> </h1> | <h1> DesignHive </h1> | <h1> -2 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/oMpj15l.png"> </h1> | <h1> FireHive </h1> | <h1> -3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/22cLOd6.png"> </h1> | <h1> SilkHive </h1> | <h1> -4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> DanceHive </h1> | <h1> -5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> ZenHive </h1> | <h1> -6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
-| <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> SacredHive </h1> | <h1> -7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> ResearchHive </h1> Maecenas et sagittis dolor, sed ultricies felis. | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/2ANw2fR.png"> </h1> | <h1> SteamHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> +6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> DevHive </h1> Aenean dolor nibh, ultrices ac suscipit in, dignissim eget tellus. | <h1> +5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/DjRyFKr.png"> </h1> | <h1> ThinkHive </h1> Donec venenatis hendrerit egestas. | <h1> +4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/cCBfgtH.png"> </h1> | <h1> IguanaHive </h1> Mose eu suscipit dolor, facilisis pulvinar ante. | <h1> +3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> LingoHive </h1> Nulla quis magna et turpis fringilla maximus. | <h1> +2 </h1> Language | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/t4g2RDI.png"> </h1> | <h1> SunnyHive </h1> Ut nibh libero, efficitur ac dictum scelerisque. | <h1> +1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/19AHyeo.png"> </h1> | <h1> DreamHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> 0 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-black"> |
+| <h1> <img src="https://i.imgur.com/TwW8qT3.png"> </h1> | <h1> CuriosityHive </h1> ResearchHive </h1> Maecenas et sagittis dolor, sed ultricies felis. | <h1> -1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/pwewwFv.png"> </h1> | <h1> DesignHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -2 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/oMpj15l.png"> </h1> | <h1> FireHive </h1> Donec venenatis hendrerit egestas. | <h1> -3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/22cLOd6.png"> </h1> | <h1> SilkHive </h1> Mose eu suscipit dolor, facilisis pulvinar ante. | <h1> -4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> DanceHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> -5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> ZenHive </h1> Donec venenatis hendrerit egestas. | <h1> -6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
+| <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> SacredHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 
 
 
