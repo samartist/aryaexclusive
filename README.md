@@ -74,26 +74,31 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-## How To Use
+## ⭐ Leaderboard ❤️
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Quisque rhoncus sodales rutrum. Maecenas ut magna tempus mi volutpat malesuada. Nam lobortis ullamcorper lorem sed volutpat.
 
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
+|                                                            | User                                             | Step |
+| :--------------------------------------------------------- | :----------------------------------------------- | :------- |
+| ![](https://avatars.githubusercontent.com/u/204341?s=25)   | [@samartist](https://github.com/samartist)       | c +7 -8 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/63164982?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +6 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/56607882?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +5 -4 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/27820675?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/1094221?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/194590?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +5 -4 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/186637?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +4 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/29659953?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -5 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/59947262?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +4 -1 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/635852?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +4 -6 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/307334?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +3 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/11155743?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -3 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/29042462?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +3 -6 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/2978730?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +3 -4 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/44171355?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/5638101?s=25)  | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/619996?s=25)   | [@samartist](https://github.com/samartist)       | ⭐ +2 -2 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/31022056?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -1 ❤️ |
+| ![](https://avatars.githubusercontent.com/u/31921460?s=25) | [@samartist](https://github.com/samartist)       | ⭐ +2 -1 ❤️ |
 
 ## Download
 
