@@ -37,7 +37,7 @@
 
 |  | Hives | Steps | Links |
 | :---: |:---:| :---:| :---:|
-| <h1> <img src="https://i.imgur.com/KyhVgEB.png"> </h1> | <h1> FocusHive </h1> | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-orange"> |
+| <h1> <img src="https://i.imgur.com/KyhVgEB.png?s=1"> </h1> | <h1> FocusHive </h1> | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-orange"> |
 | <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> FocusHive </h1> | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/2ANw2fR.png"> </h1> | <h1> FocusHive </h1> | <h1> +6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-blue"> |
 | <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> FocusHive </h1> | <h1> +5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
