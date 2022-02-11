@@ -55,25 +55,20 @@
 | <h1> <img src="https://i.imgur.com/apRaryq.png"> </h1> | <h1> ZenHive </h1> Donec venenatis hendrerit egestas. | <h1> -6 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 | <h1> <img src="https://i.imgur.com/ZCu2hho.png"> </h1> | <h1> SacredHive </h1> Interdum et malesuada fames ac ante ipsum primis in faucibus. | <h1> -7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
 
-## Features
+## The OmniSpirit & The Omniverse
 
-* LivePreview - Make change, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* 🙏 Phasellus sodales pellentesque elit sed tempor.
+  👯 Nulla quis magna et turpis fringilla maximus. 
+* 🎉 Phasellus sodales pellentesque elit sed tempor.
+  ✨ Ut nibh libero, efficitur ac dictum scelerisque. 
+* 💞 Interdum et malesuada fames ac ante ipsum primis in faucibus.
+* 🌸 Mose eu suscipit dolor, facilisis pulvinar ante.
+* 💥 Phasellus sodales pellentesque elit sed tempor.
+* 🌟 Maecenas et sagittis dolor, sed ultricies felis.
+* ⭐ Toolbar for basic Markdown formatting
+* ✔️ Donec venenatis hendrerit egestas.
+* 🌈 Mose eu suscipit dolor, facilisis pulvinar ante.
+* 💐 Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
 ## ⭐ Leaderboard ❤️
 
