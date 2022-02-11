@@ -43,7 +43,7 @@
 | <h1> <img src="https://i.imgur.com/tu6XkQy.png"> </h1> | <h1> DevHive </h1> | <h1> +5 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/DjRyFKr.png"> </h1> | <h1> ThinkHive </h1> | <h1> +4 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/cCBfgtH.png"> </h1> | <h1> IguanaHive </h1> | <h1> +3 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
-| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> LingoHive </h1> | <h1> +2 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
+| <h1> <img src="https://i.imgur.com/rrd3N07.png"> </h1> | <h1> LingoHive </h1> | <h1> +2 </h1> Language | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/t4g2RDI.png"> </h1> | <h1> SunnyHive </h1> | <h1> +1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/19AHyeo.png"> </h1> | <h1> DreamHive </h1> | <h1> 0 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-black"> |
 | <h1> <img src="https://i.imgur.com/TwW8qT3.png"> </h1> | <h1> CuriosityHive </h1> | <h1> -1 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-red"> |
