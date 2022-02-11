@@ -36,7 +36,7 @@
 
 ![screenshot](https://i.imgur.com/ZB4myHW.jpg)
 
-|  | Hives | Steps | Links |
+align="center"> |  | Hives | Steps | Links |
 | :---: |:---:| :---:| :---:|
 | <h1> <img src="https://i.imgur.com/KyhVgEB.png?s=1"> </h1> | <h1> FocusHive </h1> Phasellus sodales pellentesque elit sed tempor. | <h1> +8 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
 | <h1> <img src="https://i.imgur.com/rM055Cy.png"> </h1> | <h1> ResearchHive </h1> Maecenas et sagittis dolor, sed ultricies felis. | <h1> +7 </h1> | <img src="https://img.shields.io/badge/Visit%20Hive-%E2%98%86-green"> |
